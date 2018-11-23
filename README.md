@@ -1,2 +1,2 @@
-# prueva-IOS
+# prueba-IOS
 Prueba de crear repositorio
